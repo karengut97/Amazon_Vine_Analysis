@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-The purpose of this analysis is to determine if there is any bias toward favorable reviews on **SPORTS** from Vine members (paid reviewwers) in the sports dataset. This analysis is for SellBy stakeholders.
+The purpose of this analysis is to determine if there is any bias toward favorable reviews on  from Vine members (paid reviewwers) in the **SPORTS** dataset. This analysis is for SellBy stakeholders.
 
 ## Results
 o	How many Vine reviews and non-Vine reviews were there?
@@ -10,16 +10,17 @@ o	How many Vine reviews and non-Vine reviews were there?
 
 <img src="images/total_paid_reviews.png" width="400" height="100"/>  
 
-**Total number of Non-Vine Reviews**
+**Total number of Non-Vine Reviews:**
 
 <img src="images/total_unpaid_reviews.png" width="400" height="100"/> 
 
 o	How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 **Total number of Vine 5 Star Reviews:**
 
 <img src="images/five_star_paid_reviews.png" width="500" height="100"/>  
 
-**Total number of Non-Vine 5 Star Reviews**
+**Total number of Non-Vine 5 Star Reviews:**
 
 <img src="images/five_star_unpaid_reviews.png" width="500" height="100"/> 
 
@@ -29,7 +30,7 @@ o	What percentage of Vine reviews were 5 stars? What percentage of non-Vine revi
 
 <img src="images/percent_five_star_paid.png" width="500" height="100"/>  
 
-**Total number of Non-Vine 5 Star Reviews**
+**Total number of Non-Vine 5 Star Reviews:**
 
 <img src="images/percent_five_star_unpaid.png" width="500" height="100"/> 
 
